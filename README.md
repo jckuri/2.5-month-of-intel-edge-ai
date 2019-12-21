@@ -45,3 +45,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 4](images/Day004.png)
+
+## Day 5: December 20, 2019. #30DaysofUdacity #FinalDaysof2019
+- I watched some video lectures.
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 31%)\
+  **Lesson 2 - Leveraging Pre-Trained Models** (Progress 84%)\
+  **16. Exercise: Deploy An App at the Edge**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 5](images/Day005.png)
