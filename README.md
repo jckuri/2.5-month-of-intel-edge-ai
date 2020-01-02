@@ -177,3 +177,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 16](images/Day016.png)
+
+## Day 17: January 1, 2020. #30DaysofUdacity #FinalDaysof2019
+- I watched some video lectures.
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 52%)\
+  **Lesson 3 - The Model Optimizer** (Progress 75%)\
+  **15. Cutting Parts of a Model**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 17](images/Day017.png)
