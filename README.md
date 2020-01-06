@@ -233,7 +233,7 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - Complete Lesson 2.\
   ![Day 21](images/Day021-5.png)
 - Visit your classroom 5x before January 8.\
-  Done. I've visited both the Intel Edge AI Scholarship both at Udacity and Slack, much more than 5 times.
+  Done. I've visited the Intel Edge AI Scholarship at both Udacity and Slack, much more than 5 times.
 - Share an accomplishment (yours or another) in #celebrate.\
   ![Day 21](images/Day021-8.png)
   https://inteledgeaichallenge.slack.com/archives/CRHAP13JQ/p1578287127441600
