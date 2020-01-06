@@ -228,20 +228,22 @@ https://bingobaker.com/play/2673871/dea87bb742d4cbdca9b28c7ff8351787
 - Post your name + country's flag in #introductions.\
   ![Day 21](images/Day021-1.png)
 - Get to know a Student Leader!\
-
+  Hello.
 - Complete Lesson 2.\
-  ![Day 21](images/Day021-1.png)
+  Hello.
 - Visit your classroom 5x before January 8.\
   Done. I've visited both the Intel Edge AI Scholarship both at Udacity and Slack, much more than 5 times.
 - Share an accomplishment (yours or another) in #celebrate.\
-  
+  Hello.
 - Meet someone from another country & find 1 thing you have in common.\
-  Nancy Al Aswad is from the Middle East and we both love artificial intelligence.
+  Nancy Al Aswad is from the Middle East and we both love artificial intelligence.\
+  ![Day 21](images/Day021-2.png)
 - Ask or answer a question in the "Pre-Trained Models" channel.\
-
+  Hello.
 - Share an inspiring message in #motivation.\
-
+  ![Day 21](images/Day021-3.png)
 - Add your Slack profile pic.\
-
+  Hello.
 - Happy Holidays.\
-https://inteledgeaichallenge.slack.com/archives/CRHNR1139/p1578280630230700
+  https://inteledgeaichallenge.slack.com/archives/CRHNR1139/p1578280630230700
+  ![Day 21](images/Day021-4.png)
