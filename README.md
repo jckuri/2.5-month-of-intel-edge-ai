@@ -243,7 +243,7 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - Share an inspiring message in #motivation.\
   ![Day 21](images/Day021-3.png)
 - Add your Slack profile pic.\
-  Hello.
+  ![Day 21](images/Day021-6.png)
 - Happy Holidays.\
   https://inteledgeaichallenge.slack.com/archives/CRHNR1139/p1578280630230700
   ![Day 21](images/Day021-4.png)
