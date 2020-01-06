@@ -227,8 +227,9 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
   https://bingobaker.com/play/2673871/dea87bb742d4cbdca9b28c7ff8351787
 - Post your name + country's flag in #introductions.\
   ![Day 21](images/Day021-1.png)
+  https://inteledgeaichallenge.slack.com/archives/CR51QH6KC/p1578278178178600
 - Get to know a Student Leader!\
-  Hello.
+  I contacted @Aishwarya Nevrekar, @Vishal Gupta, and @Arnie Elkins.
 - Complete Lesson 2.\
   ![Day 21](images/Day021-5.png)
 - Visit your classroom 5x before January 8.\
@@ -239,9 +240,11 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
   Nancy Al Aswad is from the Middle East and we both love artificial intelligence.\
   ![Day 21](images/Day021-2.png)
 - Ask or answer a question in the "Pre-Trained Models" channel.\
-  Hello.
+  ![Day 21](images/Day021-7.png)
+  https://inteledgeaichallenge.slack.com/archives/CRQ5QJCAZ/p1578286391328100
 - Share an inspiring message in #motivation.\
   ![Day 21](images/Day021-3.png)
+  https://inteledgeaichallenge.slack.com/archives/CR6AEAWGK/p1578279578404800
 - Add your Slack profile pic.\
   ![Day 21](images/Day021-6.png)
 - Happy Holidays.\
