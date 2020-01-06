@@ -224,13 +224,13 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 
 ## Day 21: January 5, 2020. #30DaysofUdacity #FinalDaysof2019
 - I'm playing the Intel Edge AI Bingo:
-https://bingobaker.com/play/2673871/dea87bb742d4cbdca9b28c7ff8351787
+  https://bingobaker.com/play/2673871/dea87bb742d4cbdca9b28c7ff8351787
 - Post your name + country's flag in #introductions.\
   ![Day 21](images/Day021-1.png)
 - Get to know a Student Leader!\
   Hello.
 - Complete Lesson 2.\
-  Hello.
+  ![Day 21](images/Day021-5.png)
 - Visit your classroom 5x before January 8.\
   Done. I've visited both the Intel Edge AI Scholarship both at Udacity and Slack, much more than 5 times.
 - Share an accomplishment (yours or another) in #celebrate.\
