@@ -229,13 +229,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
   ![Day 21](images/Day021-1.png)
   https://inteledgeaichallenge.slack.com/archives/CR51QH6KC/p1578278178178600
 - Get to know a Student Leader!\
-  I contacted @Aishwarya Nevrekar, @Vishal Gupta, and @Arnie Elkins.
+  I contacted @Aishwarya Nevrekar, @Vishal Gupta, @Arnie Elkins, @JDL, @Kyu Lee, @Soumia, and @TEJAS R. PHASE.
 - Complete Lesson 2.\
   ![Day 21](images/Day021-5.png)
 - Visit your classroom 5x before January 8.\
   Done. I've visited both the Intel Edge AI Scholarship both at Udacity and Slack, much more than 5 times.
 - Share an accomplishment (yours or another) in #celebrate.\
-  Hello.
+  ![Day 21](images/Day021-8.png)
+  https://inteledgeaichallenge.slack.com/archives/CRHAP13JQ/p1578287127441600
 - Meet someone from another country & find 1 thing you have in common.\
   Nancy Al Aswad is from the Middle East and we both love artificial intelligence.\
   ![Day 21](images/Day021-2.png)
