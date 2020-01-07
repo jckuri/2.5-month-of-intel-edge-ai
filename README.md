@@ -252,3 +252,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - Happy Holidays.\
   https://inteledgeaichallenge.slack.com/archives/CRHNR1139/p1578280630230700
   ![Day 21](images/Day021-4.png)
+
+## Day 22: January 6, 2020. #30DaysofUdacity #FinalDaysof2019
+- I watched some video lectures.
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 56%)\
+  **Lesson 3 - The Model Optimizer** (Progress 95%)\
+  **19. Recap**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 22](images/Day022.png)
