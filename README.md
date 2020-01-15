@@ -341,7 +341,7 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 
 ![Day 29](images/Day029.png)
 
-## Day 30: January 14, 2020. #30DaysofUdacity #FinalDaysof2019
+## Day 30: January 14, 2020. #30DaysofUdacity
 - I watched some video lectures.
 - My current progress is:\
   **Part 2. Intel® Edge AI Foundation Course**\
