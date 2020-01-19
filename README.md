@@ -392,6 +392,6 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
   **Lesson 4 - The Inference Engine**\
   **11. Handling Results**
 - I navigated through the Slack workspace of the Intel Edge AI Challenge.
-- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht
 
 ![Day 34](images/Day034.jpg)
