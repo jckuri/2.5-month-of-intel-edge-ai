@@ -428,3 +428,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht
 
 ![Day 37](images/Day037.jpg)
+
+## Day 38: January 22, 2020. #30DaysofUdacity
+- I'm watching again some video lectures I already studied.
+- I'm watching again the video lecture:\
+  **Part 2. Intel® Edge AI Foundation Course**\
+  **Lesson 2 - Leveraging Pre-Trained Models**\
+  **10. Choosing the Right Model for Your App**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht
+
+![Day 38](images/Day038.jpg)
