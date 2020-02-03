@@ -557,6 +557,6 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
   **Lesson 3 - The Model Optimizer**\
   **3. Optimization Techniques**
 - I navigated through the Slack workspace of the Intel Edge AI Challenge.
-- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad
 
 ![Day 49](images/Day049.jpg)
