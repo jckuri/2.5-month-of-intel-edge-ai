@@ -615,3 +615,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad
 
 ![Day 54](images/Day054.jpg)
+
+## Day 55: February 8, 2020. #30DaysofUdacity
+- I'm watching again some video lectures I already studied.
+- I'm watching again the video lecture:\
+  **Part 2. Intel® Edge AI Foundation Course**\
+  **Lesson 3 - The Model Optimizer**\
+  **9. Using the Model Optimizer with Caffe Models**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad
+
+![Day 55](images/Day055.jpg)
