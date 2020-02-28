@@ -824,3 +824,14 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 73](images/Day073.jpg)
+
+## Day 74: February 27, 2020. #30DaysofUdacity
+- I'm watching again some video lectures I already studied.
+- I'm watching again the video lecture:\
+  **Part 2. Intel® Edge AI Foundation Course**\
+  **Lesson 4 - The Inference Engine**\
+  **8. Asynchronous Requests**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 74](images/Day074.jpg)
