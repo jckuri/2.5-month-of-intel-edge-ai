@@ -880,3 +880,15 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 79](images/Day079.jpg)
+
+## Day 80: March 4, 2020. #30DaysofUdacity
+- I programmed the exercise **Integrate into an App**, a vision system for self-driving cars, which is based on semantic segmentation, the pretrained model semantic-segmentation-adas-0001, and the OpenVINO Toolkit. The results are amazing:
+https://youtu.be/Urph3UHLivY
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course**\
+  **Lesson 5 - Deploying an Edge App**\
+  **4. Exercise: Handling Input Streams**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 80](images/Day080.jpg)
