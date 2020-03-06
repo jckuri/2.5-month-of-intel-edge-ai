@@ -892,3 +892,15 @@ https://youtu.be/Urph3UHLivY
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 80](images/Day080.jpg)
+
+## Day 81: March 5, 2020. #30DaysofUdacity
+- I programmed the exercise **Process Model Outputs**, a tiny vision system to detect confrontational pets. See the video:
+https://youtu.be/3NcUuxjw_9I
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course**\
+  **Lesson 5 - Deploying an Edge App**\
+  **13. Exercise: Server Communications**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 81](images/Day081.jpg)
