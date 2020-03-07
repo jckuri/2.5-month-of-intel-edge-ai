@@ -904,3 +904,13 @@ https://youtu.be/3NcUuxjw_9I
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 81](images/Day081.jpg)
+
+## Day 82: March 6, 2020. #30DaysofUdacity
+- I programmed the exercise **Server Communications**, a Vehicle Edge Application with MQTT and FFmpeg. See the video:
+https://youtu.be/anlIIRCvlEU
+- I finished the **Intel® Edge AI Scholarship Foundation Course.**
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 82](images/Day082-1.jpg)
+![Day 82](images/Day082-2.jpg)
