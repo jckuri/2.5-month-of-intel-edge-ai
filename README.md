@@ -922,3 +922,4 @@ https://youtu.be/anlIIRCvlEU
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 83](images/Day083.jpg)
+![Day 83](images/Day083-2.jpg)
