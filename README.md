@@ -918,6 +918,7 @@ https://youtu.be/anlIIRCvlEU
 ## Day 83: March 7, 2020. #30DaysofUdacity
 - In March 6, 2020, I finished the **Intel® Edge AI Scholarship Foundation Course.**
 - We are programming our final project which is about edge cameras. See the photo.
+- I filled the survey to report my completion of the #30daysofudacity challenge.
 - I navigated through the Slack workspace of the Intel Edge AI Challenge.
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
