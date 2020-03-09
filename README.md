@@ -924,3 +924,13 @@ https://youtu.be/anlIIRCvlEU
 
 ![Day 83](images/Day083.jpg)
 ![Day 83](images/Day083-2.jpg)
+
+## Day 84: March 8, 2020. #30DaysofUdacity
+- In March 6, 2020, I finished the **Intel® Edge AI Scholarship Foundation Course.**
+- We finished programming our final project called **Edge Cameras for Detecting Human Presence**. Watch the YouTube video: https://youtu.be/1PgzfK5YIpk
+- I submitted our final project called **Edge Cameras for Detecting Human Presence**. See the photo.
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 84](images/Day084-1.jpg)
+![Day 84](images/Day084-2.jpg)
