@@ -934,3 +934,13 @@ https://youtu.be/anlIIRCvlEU
 
 ![Day 84](images/Day084-1.jpg)
 ![Day 84](images/Day084-2.jpg)
+
+## Day 85: March 9, 2020. #30DaysofUdacity
+- In March 6, 2020, I finished the **Intel® Edge AI Scholarship Foundation Course.**
+- In March 8, 2020, we finished programming our final project called **Edge Cameras for Detecting Human Presence**: <https://github.com/jckuri/edge_cameras>
+- I nominated @susyjam for the #You'reAGem award.
+- I'm working on the **Dog-Breed Classifier project** of the **Deep Learning Nanodegree Program**.
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 85](images/Day085.jpg)
