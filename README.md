@@ -962,3 +962,12 @@ https://youtu.be/anlIIRCvlEU
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 87](images/Day087.jpg)
+
+## Day 88: March 12, 2020. #30DaysofUdacity
+- In March 6, 2020, I finished the **Intel® Edge AI Scholarship Foundation Course.**
+- In March 8, 2020, we finished programming our final project called **Edge Cameras for Detecting Human Presence**: <https://github.com/jckuri/edge_cameras>
+- I just submitted my **Dog-Breed Classifier project** of the **Deep Learning Nanodegree Program**. \*crossing fingers\*
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 88](images/Day088.jpg)
