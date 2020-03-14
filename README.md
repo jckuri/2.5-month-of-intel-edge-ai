@@ -971,3 +971,14 @@ https://youtu.be/anlIIRCvlEU
 - I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
 
 ![Day 88](images/Day088.jpg)
+
+## Day 89: March 13, 2020. #30DaysofUdacity
+- In March 6, 2020, I finished the **Intel® Edge AI Scholarship Foundation Course.**
+- In March 8, 2020, we finished programming our final project called **Edge Cameras for Detecting Human Presence**: <https://github.com/jckuri/edge_cameras>
+- I downloaded all the videos, Jupyter notebooks, and code of the **Intel® Edge AI Scholarship Foundation Course.** I used the Unix command: `zip -r L4-13.zip .` And then, I downloaded the zip files.
+- I filled the end-of-program survey.
+- I navigated through the Slack workspace of the Intel Edge AI Challenge.
+- I encourage @susyjam, @Oudarjya Sen Sarma, @LauraT, @Elena Kutanov, @Nancy Al Aswad, @Temitope Oladokun, @Aarthi Alagammai, @Nabhan Abdulla, @Ankit Vashisht, @Nancy Al Aswad, @Gustavo94 
+
+![Day 89](images/Day089.jpg)
+![Day 89](images/Day089-2.jpg)
